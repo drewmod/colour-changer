@@ -9,7 +9,6 @@ let RandColor=()=> {
     let val = "0123456789ABCDEF";
     // const pound sign
     let cons ="#"
-    let cond ="wepted"
     // to get the six digit we loop our val together with pound 
     
     for(let i=0; i<6; i++){
